@@ -9,7 +9,7 @@
 }
 .whole_container_home{
     background: linear-gradient(135deg, #010310 0%, #15035b 100%) !important;
-    min-height: 100rem;
+    min-height: 45rem !important;
     
 }
 
