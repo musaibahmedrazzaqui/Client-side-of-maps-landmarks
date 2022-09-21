@@ -12,7 +12,8 @@ const Home = () => {
         <h1>These are the following steps:</h1>
         <br />
         <h3>
-          1. Click the begin button <br /> 2. You're redirected to your location{" "}
+          1. Click the begin button <br /> 2. Tap Allow on the prompt of
+          permission to use your location - you're redirected to your location{" "}
           <br /> 3. Click the Next Step button <br /> 4. Add your name and
           nearest landmark according to your location and press submit{" "}
         </h3>
