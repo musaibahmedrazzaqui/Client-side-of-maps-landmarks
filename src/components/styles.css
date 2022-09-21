@@ -1,0 +1,20 @@
+.button_div{
+    padding-top: 1rem !important;
+    margin-left: 160px;
+    padding-bottom: 1rem !important;
+    
+}
+.button_container{
+    background: linear-gradient(135deg, #010310 0%, #15035b 100%);
+}
+.whole_container_home{
+    background: linear-gradient(135deg, #010310 0%, #15035b 100%) !important;
+    min-height: 100rem;
+    
+}
+
+.text_container{
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}

@@ -1,0 +1,14 @@
+.leaflet-container{
+   height: 100vh;
+   width: 70vh;
+}
+
+.whole_contianer{
+    height: 100%;
+    width: 100%;
+    
+}
+.button_div{
+    background: linear-gradient(135deg, #010310 0%, #15035b 100%);
+    justify-content: center;
+}

@@ -1,0 +1,16 @@
+.appbar_heading{
+    text-align: center !important;
+    color:rgb(255, 255, 255);
+    justify-content: center !important;
+    margin: auto;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: solid;
+    font-size:x-large;
+    
+}
+
+.logo-image{
+    max-width: 10px;
+    max-height: 10px;
+}
