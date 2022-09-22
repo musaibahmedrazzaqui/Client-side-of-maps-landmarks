@@ -12,7 +12,7 @@ const Home = () => {
         <h1>These are the following steps:</h1>
         <br />
 
-        <div className="button_div">
+        <div className="button_div_home">
           <Link to="/map">
             <Button variant="contained">Begin!</Button>
           </Link>

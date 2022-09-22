@@ -4,6 +4,12 @@
     padding-bottom: 1rem !important;
     
 }
+.button_div_home {
+    padding-top: 1rem !important;
+    margin-left: 10px !important;
+    padding-bottom: 1rem !important;
+
+}
 .button_container{
     background: linear-gradient(135deg, #010310 0%, #15035b 100%);
 }
